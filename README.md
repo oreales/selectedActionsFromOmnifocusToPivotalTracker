@@ -31,6 +31,7 @@ This script gets the selected tasks and create stories in your Pivotal Tracker p
 3. Story description of the story will be filled up with a link back to your omnifocus task. Clicking on it from pivotal tracker will open and select the related action at OmniFocus side.
 4. Story description will be completed with all the comments (if any) of your action at OmniFocus side
 5. Story will be "labeled" automagically with the "project name" where your omnifocus action is contained.
+6. Story will have your USER (setted at applescript settings) as requester
 
 
 
