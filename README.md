@@ -1,5 +1,5 @@
-selectedActionsFromOmnifocusToPivotalTracker
-============================================
+selected Actions from OmniFocus to Pivotal Tracker
+==================================================
 
 Applescript that sends selected action in OmniFocus to Pivotal Tracker.
 
